@@ -3,4 +3,4 @@
 #Example
 def local_variable():
     s= 30
-    print(s+1)
+    print(s)
