@@ -15,6 +15,7 @@ def waterfilter ():
     print(rm116)
 
 waterfilter()
+#print(rm116) #Error as rm116 is a local variable and cannot be accessed outside the function
 print(wf)
 
 ############################################
